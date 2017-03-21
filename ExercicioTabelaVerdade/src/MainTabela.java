@@ -267,7 +267,7 @@ public class MainTabela {
 		 } else {
 			 
 			 System.out.println("O resultado informado não equivale a equação proposta no início, verifique as respostas e refaça.");
-			 System.out.println("Pesquise a tabela verdade.");
+			 System.out.println("Pesquise a tabela verdade!");
 		
 		 	}
 	
