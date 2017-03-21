@@ -22,7 +22,7 @@ public class CargosSalarios {
 		System.out.println("4 - Financeiro.");
 		System.out.println("5 - Jurídico.");
 
-		System.out.println("Digite a opção:");
+		System.out.println("Digite a opção: ");
 		Scanner t = new Scanner(System.in);
 		Scanner s = new Scanner(System.in);
 		opcao = t.nextInt();
